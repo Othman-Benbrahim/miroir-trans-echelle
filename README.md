@@ -63,7 +63,9 @@ miroir-trans-echelle/
     ├── carte-resonance.md                 ← Format & règles de la carte croisée
     ├── epistemologie-hybride.md           ← Cadre théorique (Kahneman, Heuer, Denzin…)
     ├── interop-skills.md                  ← Invocation de Fractales & Signaux
-    └── ethique-guardrails.md              ← Limites, garde-fous, statut épistémique
+    ├── ethique-guardrails.md              ← Limites, garde-fous, statut épistémique
+    ├── rdm-archetypes-etendus.md          ← Archétypes non-occidentaux (soufis, africains, asiatiques…)
+    └── mode-p3-iteratif.md                ← Mode approfondi multi-cycles (3 à 4 itérations)
 ```
 
 ---
@@ -101,10 +103,25 @@ Ou plus largement : sur tout événement où l'utilisateur souhaite **une double
 
 **Mode croisé** : l'utilisateur veut les deux et leur synthèse → il invoque *Miroir Trans-échelle*, qui orchestre.
 
+**Mode approfondi (itératif)** : pour les dossiers complexes (multi-acteurs, multi-échelles, multi-temporalités), le skill bascule en pipeline multi-cycles avec retour utilisateur entre chaque cycle. Voir `references/mode-p3-iteratif.md`.
+
 Le skill détecte automatiquement quand le mode croisé est pertinent :
 - Dossier complexe avec dimensions multiples (politique + culturelle + économique).
 - Demande explicite de "double lecture" ou "vue d'ensemble".
 - Présence simultanée de signaux factuels et de tonalités narratives fortes.
+
+## Extensions culturelles
+
+Le répertoire archétypal de base est volontairement marqué occidental/structuraliste (Voyageur, Souverain, Sage, etc.). Pour les dossiers où cette grille atteint ses limites, le fichier `references/rdm-archetypes-etendus.md` propose un répertoire complémentaire issu de plusieurs traditions :
+
+- **Soufie/islamique** (Al-Faqîr, Al-Khidr, Majdhûb, états de l'âme)
+- **Africaines subsahariennes** (Griot, Eshu/Legba, Mami Wata, Ancêtre vivant)
+- **Est-asiatiques** (Stratège du Shi, Maître du thé, Dragon, Ronin)
+- **Sud-asiatiques** (Krishna joueur, Sannyâsin, Arjuna)
+- **Amérindiennes** (Coyote/Corbeau, Wendigo)
+- **Gréco-égyptiennes & celtiques** (Hermès Trismégiste, Cailleach)
+
+Ces archétypes sont présentés avec leurs sources académiques et trois précautions absolues : **non-essentialisation**, **non-appropriation**, **non-orientalisation**. Ils complètent le répertoire de base sans le remplacer.
 
 ---
 

@@ -229,10 +229,12 @@ Détail dans `references/ethique-guardrails.md`.
 
 - **Mode croisé activé** si : dossier complexe, multi-dimensionnel, présence simultanée de signaux factuels et de tonalités narratives, demande explicite de "vue d'ensemble" ou "double lecture".
 - **Redirection vers skill pur** si : l'utilisateur demande clairement un tirage (→ Fractales seul) ou une note tactique (→ Signaux seul). Dans ce cas, ne pas exécuter le pipeline complet ; suggérer le skill approprié.
+- **Bascule en mode itératif** si : le dossier coche au moins 2 critères de complexité (multi-acteurs > 4, multi-échelles, multi-temporalités, densité de dissonances > 3, densité d'angles morts > 3) **ou** demande utilisateur explicite (*"approfondir"*, *"par cycles"*, *"itératif"*). Voir `references/mode-p3-iteratif.md`.
+- **Bascule vers archétypes étendus** si : la P1 standard produit une lecture plate alors que la situation est riche, **ou** le dossier concerne explicitement un contexte culturel non-occidental. Voir `references/rdm-archetypes-etendus.md`.
 
 Si le doute persiste, **demande à l'utilisateur** :
 
-> *"Souhaites-tu une lecture purement symbolique, purement analytique, ou la lecture croisée trans-échelle ?"*
+> *"Souhaites-tu une lecture purement symbolique, purement analytique, ou la lecture croisée trans-échelle ? Et si trans-échelle : en une seule passe ou en mode itératif approfondi ?"*
 
 ---
 
@@ -245,6 +247,8 @@ Consulte ces fichiers selon le besoin :
 - **`references/epistemologie-hybride.md`** — fondements théoriques (Kahneman, Heuer, Denzin, Reichenbach, Garcez & Lamb)
 - **`references/interop-skills.md`** — procédure d'invocation des skills frères, gestion des fallbacks
 - **`references/ethique-guardrails.md`** — limites, garde-fous, statut épistémique
+- **`references/rdm-archetypes-etendus.md`** — répertoire archétypal étendu (traditions non-occidentales) à mobiliser quand le répertoire de base est limitant
+- **`references/mode-p3-iteratif.md`** — protocole multi-cycles pour dossiers complexes (3-4 cycles avec retours utilisateur)
 
 ---
 
